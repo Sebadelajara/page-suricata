@@ -1,0 +1,76 @@
+body *{
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-family: 'open sans'; sans-serif;
+}
+
+.menu{
+  background-color: #E83E8C;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
+.logo {
+  width: 120px;
+  height: 50px;
+  margin-left: 5%;
+}
+.color-claro {
+  color: #ffffff;
+}
+
+
+footer {
+  background: #E83E8C;
+}
+.surifooter {
+  text-align: center;
+}
+.surifooter {
+  padding: 20px 0px 40px 0px;
+}
+.texth2,.medios-pago {
+display: inline-block;
+}
+
+.medios-pago {
+  background-color: #17A2B8;
+  color: #ffffff;
+  padding: 20px;
+  margin-right: 30px;
+  padding-right: 20px;
+}
+.medios-pago {
+  background-color: #19a2b8;
+  font-size: 24px;
+  display: inline-block;
+  margin: 0px auto;
+  width: 100%;
+  text-align: center;
+  padding-right: 20px;
+  }
+.texth2,.medios-pago {
+  display: inline-block;
+}
+
+.center {
+  padding: 5px 20px;
+  text-align: center;
+}
+.icon {
+  padding: 0px 100px 0px 100px;
+}
+h1 {
+  text-align: center;
+  font-family: 'open sans'; sens-serif;
+  font-weight: 700;
+  color: #707070;
+
+}
+h5 {
+  font-weight: 400;
+}
+.card-body {
+  color: #707070;
+}
